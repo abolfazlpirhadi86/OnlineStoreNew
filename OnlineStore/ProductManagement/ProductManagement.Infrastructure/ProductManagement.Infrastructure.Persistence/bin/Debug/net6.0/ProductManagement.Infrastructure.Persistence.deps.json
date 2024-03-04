@@ -12,6 +12,7 @@
           "Microsoft.EntityFrameworkCore.Design": "6.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.10",
+          "ProductManagement.Application": "1.0.0",
           "ProductManagement.Domain": "1.0.0"
         },
         "runtime": {
@@ -490,6 +491,14 @@
           "Common.dll": {}
         }
       },
+      "ProductManagement.Application/1.0.0": {
+        "dependencies": {
+          "ProductManagement.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ProductManagement.Application.dll": {}
+        }
+      },
       "ProductManagement.Domain/1.0.0": {
         "dependencies": {
           "Common": "1.0.0"
@@ -808,6 +817,11 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductManagement.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

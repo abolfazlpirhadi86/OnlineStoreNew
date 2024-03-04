@@ -4,9 +4,9 @@ namespace ProductManagement.Domain.Entities
 {
     public class ProductCategory : AuditableBaseEntityWithSoftRemove<long>
     {
-        public string Title { get; private set; }
-        public string Picture { get; private set; }
-        public string Description { get; private set; }
+        public string? Title { get; private set; }
+        public string? Picture { get; private set; }
+        public string? Description { get; private set; }
 
         public ProductCategory()
         {

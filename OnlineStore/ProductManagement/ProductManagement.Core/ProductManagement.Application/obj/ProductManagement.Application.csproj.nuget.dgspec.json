@@ -83,6 +83,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "D:\\Projects\\OnlineStores\\OnlineStore\\Common\\Common\\Common.csproj": {
+                "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\Common\\Common\\Common.csproj"
+              },
               "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
                 "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
               }

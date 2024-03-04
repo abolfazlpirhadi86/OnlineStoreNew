@@ -12,6 +12,7 @@ namespace Common.Repositories.Base
         Task Update(TEntity model);
         Task Update<DTO>(DTO model);
         Task UpdateRange(List<TEntity> model);
+        Task<bool> Exist(Expression<Func<TEntity, bool>> condition);
         Task AddOrUpdate<DTO>(DTO model);
         Task Remove(TId id);
         Task Remove(TEntity model);

@@ -18,3 +18,5 @@ D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrast
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ProductManagement.Infrastructure.Persistence.pdb
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ProductManagement.Infrastructure.Persistence.genruntimeconfig.cache
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ref\ProductManagement.Infrastructure.Persistence.dll
+D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\bin\Debug\net6.0\ProductManagement.Application.dll
+D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\bin\Debug\net6.0\ProductManagement.Application.pdb
