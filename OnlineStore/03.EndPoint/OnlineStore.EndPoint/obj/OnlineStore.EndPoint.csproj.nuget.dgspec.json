@@ -1,0 +1,364 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\OnlineStores\\OnlineStore\\03.EndPoint\\OnlineStore.EndPoint\\OnlineStore.EndPoint.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\OnlineStores\\OnlineStore\\03.EndPoint\\OnlineStore.EndPoint\\OnlineStore.EndPoint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\OnlineStores\\OnlineStore\\03.EndPoint\\OnlineStore.EndPoint\\OnlineStore.EndPoint.csproj",
+        "projectName": "OnlineStore.EndPoint",
+        "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\03.EndPoint\\OnlineStore.EndPoint\\OnlineStore.EndPoint.csproj",
+        "packagesPath": "C:\\Users\\pirhadi.a\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\OnlineStores\\OnlineStore\\03.EndPoint\\OnlineStore.EndPoint\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pirhadi.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.Persistence\\ProductManagement.Infrastructure.Persistence.csproj": {
+                "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.Persistence\\ProductManagement.Infrastructure.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\OnlineStores\\OnlineStore\\Common\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\OnlineStores\\OnlineStore\\Common\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\Common\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\pirhadi.a\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\OnlineStores\\OnlineStore\\Common\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pirhadi.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Application\\ProductManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Application\\ProductManagement.Application.csproj",
+        "projectName": "ProductManagement.Application",
+        "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Application\\ProductManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\pirhadi.a\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pirhadi.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\OnlineStores\\OnlineStore\\Common\\Common\\Common.csproj": {
+                "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\Common\\Common\\Common.csproj"
+              },
+              "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+                "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+        "projectName": "ProductManagement.Domain",
+        "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\pirhadi.a\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pirhadi.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\OnlineStores\\OnlineStore\\Common\\Common\\Common.csproj": {
+                "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\Common\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.Persistence\\ProductManagement.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.Persistence\\ProductManagement.Infrastructure.Persistence.csproj",
+        "projectName": "ProductManagement.Infrastructure.Persistence",
+        "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.Persistence\\ProductManagement.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\pirhadi.a\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pirhadi.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Application\\ProductManagement.Application.csproj": {
+                "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Application\\ProductManagement.Application.csproj"
+              },
+              "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+                "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\ProductManagement\\ProductManagement.Core\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

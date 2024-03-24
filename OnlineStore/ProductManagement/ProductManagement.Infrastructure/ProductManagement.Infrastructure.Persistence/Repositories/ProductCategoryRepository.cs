@@ -1,7 +1,7 @@
-﻿using Common.ServiceHelpers;
+﻿using Common.Repositories;
+using Common.ServiceHelpers;
 using ProductManagement.Application.IRepositories;
 using ProductManagement.Domain.Entities;
-using ProductManagement.Infrastructure.Persistence.Repositories.Base;
 
 namespace ProductManagement.Infrastructure.Persistence.Repositories
 {
@@ -9,7 +9,8 @@ namespace ProductManagement.Infrastructure.Persistence.Repositories
     {
         private readonly ProductManagementContext _dbContext;
         private readonly IMapperService _mapperService;
-        public ProductCategoryRepository(ProductManagementContext dbContext, IMapperService mapperService)
+        public ProductCategoryRepository(ProductManagementContext dbContext,
+            IMapperService mapperService)
             : base(dbContext, mapperService)
         {
             _dbContext = dbContext;

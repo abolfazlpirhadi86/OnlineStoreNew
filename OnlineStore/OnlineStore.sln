@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductManagement", "ProductManagement", "{2504BEB6-9FC0-402E-B095-D809390C5D6A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.ProductManagement", "01.ProductManagement", "{2504BEB6-9FC0-402E-B095-D809390C5D6A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagement.Application", "ProductManagement\ProductManagement.Core\ProductManagement.Application\ProductManagement.Application.csproj", "{4605DA4E-DA7A-4B1E-84A1-25E6F82857B3}"
 EndProject
@@ -21,7 +21,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MediaManagement", "MediaMan
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductManagement.Infrastructure", "ProductManagement.Infrastructure", "{BADEBAD1-1A71-4672-83B7-1E0A546C5476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManagement.Infrastructure.Persistence", "ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\ProductManagement.Infrastructure.Persistence.csproj", "{1E31A01F-7BB3-4487-A0D6-DC7ADBCE243B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagement.Infrastructure.Persistence", "ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\ProductManagement.Infrastructure.Persistence.csproj", "{1E31A01F-7BB3-4487-A0D6-DC7ADBCE243B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.EndPoint", "03.EndPoint", "{AEA06879-268D-4E6C-9023-0CD44B0499CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.EndPoint", "03.EndPoint\OnlineStore.EndPoint\OnlineStore.EndPoint.csproj", "{080EAAF4-8351-48C2-84E7-D774ED93268D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,10 @@ Global
 		{1E31A01F-7BB3-4487-A0D6-DC7ADBCE243B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E31A01F-7BB3-4487-A0D6-DC7ADBCE243B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E31A01F-7BB3-4487-A0D6-DC7ADBCE243B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080EAAF4-8351-48C2-84E7-D774ED93268D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080EAAF4-8351-48C2-84E7-D774ED93268D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080EAAF4-8351-48C2-84E7-D774ED93268D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080EAAF4-8351-48C2-84E7-D774ED93268D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +64,7 @@ Global
 		{BC888F32-9DE3-4A43-8EDD-9CB58529D17F} = {E3B9EB3E-00FD-4707-A64D-DB0B86232121}
 		{BADEBAD1-1A71-4672-83B7-1E0A546C5476} = {2504BEB6-9FC0-402E-B095-D809390C5D6A}
 		{1E31A01F-7BB3-4487-A0D6-DC7ADBCE243B} = {BADEBAD1-1A71-4672-83B7-1E0A546C5476}
+		{080EAAF4-8351-48C2-84E7-D774ED93268D} = {AEA06879-268D-4E6C-9023-0CD44B0499CE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FF3D8146-ADDC-44A9-A340-99C3893210F8}

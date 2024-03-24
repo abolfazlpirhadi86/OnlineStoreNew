@@ -1,4 +1,4 @@
-﻿using Common.Repositories.Base;
+﻿using Common.Repositories;
 using Common.Services.Abstraction.DependencyInjection;
 using ProductManagement.Domain.Entities;
 

@@ -1,5 +1,5 @@
 ﻿using Common.ServiceHelpers.Abstraction.DependencyInjection;
-using Common.Services.Base;
+using Common.Services;
 using ProductManagement.Domain.DTOs.ProductCategory;
 using ProductManagement.Domain.Entities;
 

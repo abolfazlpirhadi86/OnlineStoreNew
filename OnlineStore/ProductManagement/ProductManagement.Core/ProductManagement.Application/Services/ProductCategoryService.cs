@@ -1,8 +1,9 @@
-﻿using Common.Results;
+﻿using Common.Messages;
+using Common.Results;
 using Common.ServiceHelpers;
+using Common.Services;
 using ProductManagement.Application.IRepositories;
 using ProductManagement.Application.IServices;
-using ProductManagement.Application.Services.Base;
 using ProductManagement.Domain.DTOs.ProductCategory;
 using ProductManagement.Domain.Entities;
 
@@ -21,10 +22,18 @@ namespace ProductManagement.Application.Services
             _productCategoryRepository = productCategoryRepository;
         }
 
-        public override async Task Create(CreateProductCategoryDTO model) 
-        {
-            var operationResult = new OperationResult();
-            if(_productCategoryRepository.Add)
-        } 
+        //public async Task<OperationResult<int>> Add(CreateProductCategoryDTO model)
+        //{
+        //    var operation = new OperationResult();
+        //    if (await _productCategoryRepository.Exist(x => x.Title == model.Title))
+        //        return operation.Fail(Message.DuplicateRecode);
+
+        //    //Slug
+
+        //    await _productCategoryRepository.Add(model);
+        //    await _productCategoryRepository.Save();
+
+        //    return operation.Success();
+        //}
     }
 }
