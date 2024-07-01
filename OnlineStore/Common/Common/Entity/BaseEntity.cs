@@ -1,16 +1,15 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
 
 namespace Common.Entity
 {
-    public abstract class BaseEntity<T> : BaseEntity
+    public interface IBaseEntity { }
+    public abstract class BaseEntity<T> : IBaseEntity
     {
-        [Column("ID")]
-        [Display(Name = "شناسه")]
-        public T Id { get; set; }
-    }
 
-    public abstract class BaseEntity
+        [Column("ID")]
+        public virtual T Id { get; set; }
+    }
+    public abstract class BaseEntity : BaseEntity<long>
     {
 
     }

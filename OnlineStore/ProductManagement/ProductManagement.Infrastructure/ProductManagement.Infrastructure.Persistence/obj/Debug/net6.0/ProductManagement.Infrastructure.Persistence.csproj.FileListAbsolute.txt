@@ -3,7 +3,9 @@ D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrast
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\bin\Debug\net6.0\ProductManagement.Infrastructure.Persistence.dll
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\bin\Debug\net6.0\ProductManagement.Infrastructure.Persistence.pdb
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\bin\Debug\net6.0\Common.dll
+D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\bin\Debug\net6.0\ProductManagement.Application.dll
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\bin\Debug\net6.0\ProductManagement.Domain.dll
+D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\bin\Debug\net6.0\ProductManagement.Application.pdb
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\bin\Debug\net6.0\ProductManagement.Domain.pdb
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\bin\Debug\net6.0\Common.pdb
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ProductManagement.Infrastructure.Persistence.csproj.AssemblyReference.cache
@@ -12,11 +14,9 @@ D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrast
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ProductManagement.Infrastructure.Persistence.AssemblyInfo.cs
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ProductManagement.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ProductManagement.Infrastructure.Persistence.sourcelink.json
-D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ProductManagement.Infrastructure.Persistence.csproj.CopyComplete
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ProductManagement.Infrastructure.Persistence.dll
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\refint\ProductManagement.Infrastructure.Persistence.dll
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ProductManagement.Infrastructure.Persistence.pdb
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ProductManagement.Infrastructure.Persistence.genruntimeconfig.cache
 D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ref\ProductManagement.Infrastructure.Persistence.dll
-D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\bin\Debug\net6.0\ProductManagement.Application.dll
-D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\bin\Debug\net6.0\ProductManagement.Application.pdb
+D:\Projects\OnlineStores\OnlineStore\ProductManagement\ProductManagement.Infrastructure\ProductManagement.Infrastructure.Persistence\obj\Debug\net6.0\ProductM.9DC4D38C.Up2Date

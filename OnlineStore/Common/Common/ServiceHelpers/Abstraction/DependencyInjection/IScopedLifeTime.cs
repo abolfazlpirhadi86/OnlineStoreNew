@@ -1,6 +1,5 @@
-﻿namespace Common.Services.Abstraction.DependencyInjection
+﻿namespace Common.ServiceHelpers.Abstraction.DependencyInjection;
+public interface IScopedLifeTime
 {
-    public interface IScopedLifeTime
-    {
-    }
+
 }

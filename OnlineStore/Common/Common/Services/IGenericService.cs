@@ -1,5 +1,5 @@
 ﻿using Common.Entity;
-using Common.Services.Abstraction.DependencyInjection;
+using Common.ServiceHelpers.Abstraction.DependencyInjection;
 
 namespace Common.Services
 {

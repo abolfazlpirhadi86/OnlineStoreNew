@@ -5,7 +5,7 @@ namespace Common.Repositories
 {
     public interface IGenericRepository<TEntity, TId> where TEntity : BaseEntity<TId>, new()
     {
-        #region Create
+        #region Add
         Task Add(TEntity model);
         Task Add<DTO>(DTO model);
         Task AddRange(List<TEntity> model);

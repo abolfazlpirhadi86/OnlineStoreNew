@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -7,6 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="DataBase\Repositories\DapperRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.10">
@@ -17,11 +22,16 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\ProductManagement.Core\ProductManagement.Application\ProductManagement.Application.csproj" />
     <ProjectReference Include="..\..\ProductManagement.Core\ProductManagement.Domain\ProductManagement.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DataBase\Repositories\" />
   </ItemGroup>
 
 </Project>
