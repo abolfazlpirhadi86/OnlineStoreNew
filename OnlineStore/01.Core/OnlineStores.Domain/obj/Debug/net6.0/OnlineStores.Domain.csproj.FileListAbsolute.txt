@@ -1,0 +1,6 @@
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\OnlineStores.Domain.csproj.AssemblyReference.cache
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\OnlineStores.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\OnlineStores.Domain.AssemblyInfoInputs.cache
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\OnlineStores.Domain.AssemblyInfo.cs
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\OnlineStores.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\OnlineStores.Domain.sourcelink.json

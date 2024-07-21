@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\OnlineStores\\OnlineStore\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0F595A-7319-47C6-B47E-B249F957D4CA}|02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj|d:\\projects\\onlinestores\\onlinestore\\02.infrastructure\\onlinestore.infrastructure\\onlinestore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8A0F595A-7319-47C6-B47E-B249F957D4CA}|02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj|solutionrelative:02.infrastructure\\onlinestore.infrastructure\\onlinestore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A0F595A-7319-47C6-B47E-B249F957D4CA}|02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj|d:\\projects\\onlinestores\\onlinestore\\02.infrastructure\\onlinestore.infrastructure\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0F595A-7319-47C6-B47E-B249F957D4CA}|02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj|solutionrelative:02.infrastructure\\onlinestore.infrastructure\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,32 +46,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OnlineStore.Infrastructure",
-              "DocumentMoniker": "D:\\Projects\\OnlineStores\\OnlineStore\\02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
-              "ToolTip": "D:\\Projects\\OnlineStores\\OnlineStore\\02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
-              "RelativeToolTip": "02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-18T11:24:56.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\OnlineStores\\OnlineStore\\02.Infrastructure\\OnlineStore.Infrastructure\\DataBase\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "02.Infrastructure\\OnlineStore.Infrastructure\\DataBase\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Projects\\OnlineStores\\OnlineStore\\02.Infrastructure\\OnlineStore.Infrastructure\\DataBase\\ApplicationDbContext.cs",
-              "RelativeToolTip": "02.Infrastructure\\OnlineStore.Infrastructure\\DataBase\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T11:21:06.531Z",
-              "EditorCaption": ""
             }
           ]
         },

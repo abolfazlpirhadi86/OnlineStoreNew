@@ -1,0 +1,12 @@
+D:\Projects\OnlineStores\OnlineStore\OnlineStore.Application\bin\Debug\net6.0\OnlineStore.Application.deps.json
+D:\Projects\OnlineStores\OnlineStore\OnlineStore.Application\bin\Debug\net6.0\OnlineStore.Application.dll
+D:\Projects\OnlineStores\OnlineStore\OnlineStore.Application\bin\Debug\net6.0\OnlineStore.Application.pdb
+D:\Projects\OnlineStores\OnlineStore\OnlineStore.Application\obj\Debug\net6.0\OnlineStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OnlineStores\OnlineStore\OnlineStore.Application\obj\Debug\net6.0\OnlineStore.Application.AssemblyInfoInputs.cache
+D:\Projects\OnlineStores\OnlineStore\OnlineStore.Application\obj\Debug\net6.0\OnlineStore.Application.AssemblyInfo.cs
+D:\Projects\OnlineStores\OnlineStore\OnlineStore.Application\obj\Debug\net6.0\OnlineStore.Application.csproj.CoreCompileInputs.cache
+D:\Projects\OnlineStores\OnlineStore\OnlineStore.Application\obj\Debug\net6.0\OnlineStore.Application.sourcelink.json
+D:\Projects\OnlineStores\OnlineStore\OnlineStore.Application\obj\Debug\net6.0\OnlineStore.Application.dll
+D:\Projects\OnlineStores\OnlineStore\OnlineStore.Application\obj\Debug\net6.0\refint\OnlineStore.Application.dll
+D:\Projects\OnlineStores\OnlineStore\OnlineStore.Application\obj\Debug\net6.0\OnlineStore.Application.pdb
+D:\Projects\OnlineStores\OnlineStore\OnlineStore.Application\obj\Debug\net6.0\ref\OnlineStore.Application.dll
