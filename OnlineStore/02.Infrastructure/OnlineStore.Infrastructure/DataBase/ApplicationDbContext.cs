@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using OnlineStores.Domain.Entities;
 
 namespace OnlineStore.Infrastructure.DataBase
 {
@@ -9,5 +10,12 @@ namespace OnlineStore.Infrastructure.DataBase
         {
 
         }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+        }
+
+        public DbSet<Product> Products { get; set; }
     }
 }

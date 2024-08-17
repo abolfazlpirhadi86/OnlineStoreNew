@@ -4,3 +4,13 @@ D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.
 D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\OnlineStores.Domain.AssemblyInfo.cs
 D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\OnlineStores.Domain.csproj.CoreCompileInputs.cache
 D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\OnlineStores.Domain.sourcelink.json
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\bin\Debug\net6.0\OnlineStores.Domain.deps.json
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\bin\Debug\net6.0\OnlineStores.Domain.dll
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\bin\Debug\net6.0\OnlineStores.Domain.pdb
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\bin\Debug\net6.0\OnlineStore.Common.dll
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\bin\Debug\net6.0\OnlineStore.Common.pdb
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\OnlineSt.9FE3C9A8.Up2Date
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\OnlineStores.Domain.dll
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\refint\OnlineStores.Domain.dll
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\OnlineStores.Domain.pdb
+D:\Projects\OnlineStores\OnlineStore\01.Core\OnlineStores.Domain\obj\Debug\net6.0\ref\OnlineStores.Domain.dll

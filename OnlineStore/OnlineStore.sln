@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.EndPoint", "3.EndPoint", "{8437853E-2FA7-4834-A797-BD10DA5B49BF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.EndPoint", "03.EndPoint", "{8437853E-2FA7-4834-A797-BD10DA5B49BF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.EndPoint.Web", "03.EndPoint\OnlineStore.EndPoint.Web\OnlineStore.EndPoint.Web.csproj", "{EF45E931-7ED7-4AFE-A25E-A5B47EFBC986}"
 EndProject
@@ -15,7 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Infrastructure", "02.Inf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Infrastructure", "02.Infrastructure\OnlineStore.Infrastructure\OnlineStore.Infrastructure.csproj", "{8A0F595A-7319-47C6-B47E-B249F957D4CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStores.Domain", "01.Core\OnlineStores.Domain\OnlineStores.Domain.csproj", "{1B8730BE-ECA5-4A40-9BBD-6F2FF967B708}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStores.Domain", "01.Core\OnlineStores.Domain\OnlineStores.Domain.csproj", "{1B8730BE-ECA5-4A40-9BBD-6F2FF967B708}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Common", "00.Common", "{45E74ED2-B9A5-4F6C-BF19-8E2A62015DD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStore.Common", "00.Common\OnlineStore.Common\OnlineStore.Common.csproj", "{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,10 @@ Global
 		{1B8730BE-ECA5-4A40-9BBD-6F2FF967B708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B8730BE-ECA5-4A40-9BBD-6F2FF967B708}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B8730BE-ECA5-4A40-9BBD-6F2FF967B708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +56,7 @@ Global
 		{26DEDAC7-F8E5-43A8-82C1-A64C20857B56} = {C03BE7FC-F1CF-425E-AEF6-E98C6564ECF1}
 		{8A0F595A-7319-47C6-B47E-B249F957D4CA} = {307C623E-E79E-4FC5-8B12-686386E0D8E9}
 		{1B8730BE-ECA5-4A40-9BBD-6F2FF967B708} = {C03BE7FC-F1CF-425E-AEF6-E98C6564ECF1}
+		{34DDE43D-CE75-4A62-9E2D-9BDD047663D6} = {45E74ED2-B9A5-4F6C-BF19-8E2A62015DD6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FF3D8146-ADDC-44A9-A340-99C3893210F8}

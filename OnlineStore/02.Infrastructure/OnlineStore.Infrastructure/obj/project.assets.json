@@ -358,6 +358,30 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "OnlineStore.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/OnlineStore.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OnlineStore.Common.dll": {}
+        }
+      },
+      "OnlineStores.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.0",
+          "OnlineStore.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OnlineStores.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OnlineStores.Domain.dll": {}
+        }
       }
     }
   },
@@ -807,12 +831,23 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "OnlineStore.Common/1.0.0": {
+      "type": "project",
+      "path": "../../00.Common/OnlineStore.Common/OnlineStore.Common.csproj",
+      "msbuildProject": "../../00.Common/OnlineStore.Common/OnlineStore.Common.csproj"
+    },
+    "OnlineStores.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../01.Core/OnlineStores.Domain/OnlineStores.Domain.csproj",
+      "msbuildProject": "../../01.Core/OnlineStores.Domain/OnlineStores.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.0",
-      "Microsoft.EntityFrameworkCore >= 6.0.0"
+      "Microsoft.EntityFrameworkCore >= 6.0.0",
+      "OnlineStores.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -841,7 +876,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\OnlineStores\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj": {
+              "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

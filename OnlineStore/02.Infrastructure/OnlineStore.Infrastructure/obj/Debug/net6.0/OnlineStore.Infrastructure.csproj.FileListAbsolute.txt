@@ -11,3 +11,8 @@ D:\Projects\OnlineStores\OnlineStore\02.Infrastructure\OnlineStore.Infrastructur
 D:\Projects\OnlineStores\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\obj\Debug\net6.0\refint\OnlineStore.Infrastructure.dll
 D:\Projects\OnlineStores\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\obj\Debug\net6.0\OnlineStore.Infrastructure.pdb
 D:\Projects\OnlineStores\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\obj\Debug\net6.0\ref\OnlineStore.Infrastructure.dll
+D:\Projects\OnlineStores\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\bin\Debug\net6.0\OnlineStore.Common.dll
+D:\Projects\OnlineStores\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\bin\Debug\net6.0\OnlineStores.Domain.dll
+D:\Projects\OnlineStores\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\bin\Debug\net6.0\OnlineStores.Domain.pdb
+D:\Projects\OnlineStores\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\bin\Debug\net6.0\OnlineStore.Common.pdb
+D:\Projects\OnlineStores\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\obj\Debug\net6.0\OnlineSt.A30D6540.Up2Date

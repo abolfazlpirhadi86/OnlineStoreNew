@@ -1,0 +1,12 @@
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\bin\Debug\net6.0\OnlineStore.Common.deps.json
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\bin\Debug\net6.0\OnlineStore.Common.dll
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\bin\Debug\net6.0\OnlineStore.Common.pdb
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\OnlineStore.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\OnlineStore.Common.AssemblyInfoInputs.cache
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\OnlineStore.Common.AssemblyInfo.cs
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\OnlineStore.Common.csproj.CoreCompileInputs.cache
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\OnlineStore.Common.sourcelink.json
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\OnlineStore.Common.dll
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\refint\OnlineStore.Common.dll
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\OnlineStore.Common.pdb
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\ref\OnlineStore.Common.dll

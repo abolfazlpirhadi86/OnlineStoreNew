@@ -14,4 +14,10 @@
 
 	</ItemGroup>
 
+
+
+	<ItemGroup>
+	  <ProjectReference Include="..\..\01.Core\OnlineStores.Domain\OnlineStores.Domain.csproj" />
+	</ItemGroup>
+
 </Project>
