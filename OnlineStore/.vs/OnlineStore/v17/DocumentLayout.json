@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Projects\\OnlineStores\\OnlineStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}|00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj|d:\\projects\\onlinestores\\onlinestore\\00.common\\onlinestore.common\\dtos\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}|00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj|solutionrelative:00.common\\onlinestore.common\\dtos\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}|00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj|d:\\projects\\onlinestores\\onlinestore\\00.common\\onlinestore.common\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}|00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj|solutionrelative:00.common\\onlinestore.common\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26DEDAC7-F8E5-43A8-82C1-A64C20857B56}|OnlineStore.Application\\OnlineStore.Application.csproj|d:\\projects\\onlinestores\\onlinestore\\onlinestore.application\\irepositories\\products\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26DEDAC7-F8E5-43A8-82C1-A64C20857B56}|OnlineStore.Application\\OnlineStore.Application.csproj|solutionrelative:onlinestore.application\\irepositories\\products\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}|00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj|d:\\projects\\onlinestores\\onlinestore\\00.common\\onlinestore.common\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}|00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj|solutionrelative:00.common\\onlinestore.common\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26DEDAC7-F8E5-43A8-82C1-A64C20857B56}|OnlineStore.Application\\OnlineStore.Application.csproj|d:\\projects\\onlinestores\\onlinestore\\onlinestore.application\\iservices\\base\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26DEDAC7-F8E5-43A8-82C1-A64C20857B56}|OnlineStore.Application\\OnlineStore.Application.csproj|solutionrelative:onlinestore.application\\iservices\\base\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{26DEDAC7-F8E5-43A8-82C1-A64C20857B56}|OnlineStore.Application\\OnlineStore.Application.csproj|d:\\projects\\onlinestores\\onlinestore\\onlinestore.application\\irepositories\\products\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DEDAC7-F8E5-43A8-82C1-A64C20857B56}|OnlineStore.Application\\OnlineStore.Application.csproj|solutionrelative:onlinestore.application\\irepositories\\products\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26DEDAC7-F8E5-43A8-82C1-A64C20857B56}|OnlineStore.Application\\OnlineStore.Application.csproj|d:\\projects\\onlinestores\\onlinestore\\onlinestore.application\\services\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26DEDAC7-F8E5-43A8-82C1-A64C20857B56}|OnlineStore.Application\\OnlineStore.Application.csproj|solutionrelative:onlinestore.application\\services\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8730BE-ECA5-4A40-9BBD-6F2FF967B708}|01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj|d:\\projects\\onlinestores\\onlinestore\\01.core\\onlinestores.domain\\entities\\products\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8730BE-ECA5-4A40-9BBD-6F2FF967B708}|01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj|solutionrelative:01.core\\onlinestores.domain\\entities\\products\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,19 +75,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OperationResult.cs",
-              "DocumentMoniker": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\DTOs\\OperationResult.cs",
-              "RelativeDocumentMoniker": "00.Common\\OnlineStore.Common\\DTOs\\OperationResult.cs",
-              "ToolTip": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\DTOs\\OperationResult.cs",
-              "RelativeToolTip": "00.Common\\OnlineStore.Common\\DTOs\\OperationResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "00.Common\\OnlineStore.Common\\Extensions\\StringExtensions.cs",
+              "ToolTip": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "00.Common\\OnlineStore.Common\\Extensions\\StringExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T13:14:01.553Z",
+              "WhenOpened": "2024-08-24T12:54:17.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\Exceptions\\BusinessException.cs",
+              "RelativeDocumentMoniker": "00.Common\\OnlineStore.Common\\Exceptions\\BusinessException.cs",
+              "ToolTip": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\Exceptions\\BusinessException.cs",
+              "RelativeToolTip": "00.Common\\OnlineStore.Common\\Exceptions\\BusinessException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:52:09.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Projects\\OnlineStores\\OnlineStore\\01.Core\\OnlineStores.Domain\\Entities\\Products\\Category.cs",
+              "RelativeDocumentMoniker": "01.Core\\OnlineStores.Domain\\Entities\\Products\\Category.cs",
+              "ToolTip": "D:\\Projects\\OnlineStores\\OnlineStore\\01.Core\\OnlineStores.Domain\\Entities\\Products\\Category.cs",
+              "RelativeToolTip": "01.Core\\OnlineStores.Domain\\Entities\\Products\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:55:45.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\Projects\\OnlineStores\\OnlineStore\\OnlineStore.Application\\Services\\Products\\ProductService.cs",
               "RelativeDocumentMoniker": "OnlineStore.Application\\Services\\Products\\ProductService.cs",
@@ -87,11 +121,12 @@
               "RelativeToolTip": "OnlineStore.Application\\Services\\Products\\ProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:35:29.608Z"
+              "WhenOpened": "2024-08-13T12:35:29.608Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "D:\\Projects\\OnlineStores\\OnlineStore\\OnlineStore.Application\\IRepositories\\Products\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "OnlineStore.Application\\IRepositories\\Products\\ICategoryRepository.cs",
@@ -99,7 +134,8 @@
               "RelativeToolTip": "OnlineStore.Application\\IRepositories\\Products\\ICategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:34:41.984Z"
+              "WhenOpened": "2024-08-13T12:34:41.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,7 +147,8 @@
               "RelativeToolTip": "OnlineStore.Application\\IServices\\Base\\IGenericService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:34:32.75Z"
+              "WhenOpened": "2024-08-13T12:34:32.75Z",
+              "EditorCaption": ""
             }
           ]
         },

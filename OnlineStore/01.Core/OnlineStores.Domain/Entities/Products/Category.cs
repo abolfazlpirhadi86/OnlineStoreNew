@@ -1,4 +1,4 @@
-﻿using OnlineStore.Common.Entity;
+﻿ using OnlineStore.Common.Entity;
 
 namespace OnlineStores.Domain.Entities.Products
 {

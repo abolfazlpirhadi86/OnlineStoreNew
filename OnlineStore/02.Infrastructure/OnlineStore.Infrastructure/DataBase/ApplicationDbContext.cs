@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using OnlineStores.Domain.Entities;
+using OnlineStores.Domain.Entities.Products;
 
 namespace OnlineStore.Infrastructure.DataBase
 {
@@ -16,6 +16,6 @@ namespace OnlineStore.Infrastructure.DataBase
             base.OnModelCreating(builder);
         }
 
-        public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
     }
 }

@@ -5,7 +5,12 @@
         public bool IsSuccess { get; set; }
         public string Message { get; set; }
 
-        public OperationResult Success(string message = "")
+        public OperationResult()
+        {
+            IsSuccess = false;
+        }
+
+        public OperationResult Success(string message = "عملیات با موفقیت انجام شد.")
         {
             IsSuccess = true;
             Message = message;
