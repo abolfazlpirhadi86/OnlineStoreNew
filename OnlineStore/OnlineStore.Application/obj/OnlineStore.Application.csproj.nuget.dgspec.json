@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\OnlineStores\\OnlineStore\\OnlineStore.Application\\OnlineStore.Application.csproj": {}
+    "E:\\Projects\\OnlineStore\\OnlineStore\\OnlineStore.Application\\OnlineStore.Application.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj": {
+    "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
+        "projectUniqueName": "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
         "projectName": "OnlineStore.Common",
-        "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
-        "packagesPath": "C:\\Users\\pirhadi.a\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\obj\\",
+        "projectPath": "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
+        "packagesPath": "C:\\Users\\AbolfazlPirhadi\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pirhadi.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AbolfazlPirhadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\OnlineStores\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj": {
+    "E:\\Projects\\OnlineStore\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\OnlineStores\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj",
+        "projectUniqueName": "E:\\Projects\\OnlineStore\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj",
         "projectName": "OnlineStores.Domain",
-        "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj",
-        "packagesPath": "C:\\Users\\pirhadi.a\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\OnlineStores\\OnlineStore\\01.Core\\OnlineStores.Domain\\obj\\",
+        "projectPath": "E:\\Projects\\OnlineStore\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj",
+        "packagesPath": "C:\\Users\\AbolfazlPirhadi\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\OnlineStore\\OnlineStore\\01.Core\\OnlineStores.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pirhadi.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AbolfazlPirhadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj": {
-                "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj"
+              "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj": {
+                "projectPath": "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj"
               }
             }
           }
@@ -130,21 +130,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Projects\\OnlineStores\\OnlineStore\\OnlineStore.Application\\OnlineStore.Application.csproj": {
+    "E:\\Projects\\OnlineStore\\OnlineStore\\OnlineStore.Application\\OnlineStore.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\OnlineStores\\OnlineStore\\OnlineStore.Application\\OnlineStore.Application.csproj",
+        "projectUniqueName": "E:\\Projects\\OnlineStore\\OnlineStore\\OnlineStore.Application\\OnlineStore.Application.csproj",
         "projectName": "OnlineStore.Application",
-        "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\OnlineStore.Application\\OnlineStore.Application.csproj",
-        "packagesPath": "C:\\Users\\pirhadi.a\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\OnlineStores\\OnlineStore\\OnlineStore.Application\\obj\\",
+        "projectPath": "E:\\Projects\\OnlineStore\\OnlineStore\\OnlineStore.Application\\OnlineStore.Application.csproj",
+        "packagesPath": "C:\\Users\\AbolfazlPirhadi\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\OnlineStore\\OnlineStore\\OnlineStore.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pirhadi.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AbolfazlPirhadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,11 +158,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj": {
-                "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj"
+              "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj": {
+                "projectPath": "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj"
               },
-              "D:\\Projects\\OnlineStores\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj": {
-                "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj"
+              "E:\\Projects\\OnlineStore\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj": {
+                "projectPath": "E:\\Projects\\OnlineStore\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj"
               }
             }
           }
@@ -197,7 +197,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -43,6 +43,10 @@ namespace OnlineStore.Application.IRepositories.Base
         Task<DTO> Find<DTO>(Expression<Func<TEntity, bool>> condition);
         #endregion
 
+        #region Exists
+        Task<bool> Exist(Expression<Func<TEntity, bool>> expression);
+        #endregion
+
         #region AddOrUpdate
         Task AddOrUpdate<DTO>(DTO model);
         #endregion

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj": {}
+    "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj": {
+    "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
+        "projectUniqueName": "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
         "projectName": "OnlineStore.Common",
-        "projectPath": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
-        "packagesPath": "C:\\Users\\pirhadi.a\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\obj\\",
+        "projectPath": "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
+        "packagesPath": "C:\\Users\\AbolfazlPirhadi\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pirhadi.a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AbolfazlPirhadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

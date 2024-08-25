@@ -11,6 +11,7 @@ namespace OnlineStore.Application.IServices.Base
         Task Update(DTO model);
         Task Remove(TId id);
         Task<DTO> Find(TId id);
+        Task<bool> Exist(TId id); 
         //Task<PagingResult<DTO>> FindAll(PagingFilter model);
     }
 }
