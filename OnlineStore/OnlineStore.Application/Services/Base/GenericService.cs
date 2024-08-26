@@ -2,6 +2,7 @@
 using OnlineStore.Application.IServices.Base;
 using OnlineStore.Common.Entity;
 using OnlineStore.Common.Services;
+using System.Linq.Expressions;
 
 namespace OnlineStore.Application.Services.Base
 {
@@ -29,6 +30,10 @@ namespace OnlineStore.Application.Services.Base
         {
             await _genericRepository.Update(model);
             await _genericRepository.Save();
+        }
+        public async Task<bool> Exist(Expression<Func<TEntity, bool>> expression)
+        {
+            return await _genericRepository.Exist(expression);
         }
         public virtual async Task Remove(TId id)
         {

@@ -4,7 +4,7 @@ using OnlineStores.Domain.Entities.Products;
 
 namespace OnlineStore.Infrastructure.DataBase
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {

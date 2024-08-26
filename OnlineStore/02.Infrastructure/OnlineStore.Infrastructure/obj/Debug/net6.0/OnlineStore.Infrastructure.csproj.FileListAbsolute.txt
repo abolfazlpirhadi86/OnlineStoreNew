@@ -34,3 +34,5 @@ E:\Projects\OnlineStore\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure
 E:\Projects\OnlineStore\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\obj\Debug\net6.0\refint\OnlineStore.Infrastructure.dll
 E:\Projects\OnlineStore\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\obj\Debug\net6.0\OnlineStore.Infrastructure.pdb
 E:\Projects\OnlineStore\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\obj\Debug\net6.0\ref\OnlineStore.Infrastructure.dll
+E:\Projects\OnlineStore\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\bin\Debug\net6.0\OnlineStore.Application.dll
+E:\Projects\OnlineStore\OnlineStore\02.Infrastructure\OnlineStore.Infrastructure\bin\Debug\net6.0\OnlineStore.Application.pdb

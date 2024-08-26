@@ -1,4 +1,5 @@
 ﻿using OnlineStore.Common.Entity;
+using System.Linq.Expressions;
 
 namespace OnlineStore.Application.IServices.Base
 {
@@ -11,7 +12,7 @@ namespace OnlineStore.Application.IServices.Base
         Task Update(DTO model);
         Task Remove(TId id);
         Task<DTO> Find(TId id);
-        Task<bool> Exist(TId id); 
+        Task<bool> Exist(Expression<Func<TEntity, bool>> expression); 
         //Task<PagingResult<DTO>> FindAll(PagingFilter model);
     }
 }

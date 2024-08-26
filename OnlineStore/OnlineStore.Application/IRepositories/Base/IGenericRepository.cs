@@ -28,8 +28,8 @@ namespace OnlineStore.Application.IRepositories.Base
         Task RemoveRange(List<TEntity> model);
         Task RemoveRange<DTO>(List<DTO> model);
         Task SoftRemoveRange(List<TEntity> model);
-        Task RemoveRange(Expression<Func<TEntity, bool>> condition);
-        Task SoftRemoveRange(Expression<Func<TEntity, bool>> condition);
+        //Task RemoveRange(Expression<Func<TEntity, bool>> condition);
+        //Task SoftRemoveRange(Expression<Func<TEntity, bool>> condition);
         #endregion
 
         #region Find
@@ -65,7 +65,6 @@ namespace OnlineStore.Application.IRepositories.Base
         #region FindAllPaging
         //Task<PagingResult<DTO>> FindAllPaging<DTO>(PagingFilter filter) where DTO : class;
         //Task<PagingResult<DTO>> FindAllPaging<DTO>(PagingFilter filter, Expression<Func<TEntity, bool>> condition) where DTO : class;
-
         #endregion
 
         #region Save
