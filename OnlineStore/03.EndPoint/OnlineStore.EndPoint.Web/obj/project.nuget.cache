@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FYN3ogSfSD3/ZEUE49k2XWxR7vxZARRPGt/qch4bAD0E4hirZdSPGZ9eX+X2nKjGbYKm3ZHveIvPsTROOIu6wA==",
+  "dgSpecHash": "CK/PLMzbAEM=",
   "success": true,
-  "projectFilePath": "E:\\Projects\\OnlineStore\\OnlineStore\\03.EndPoint\\OnlineStore.EndPoint.Web\\OnlineStore.EndPoint.Web.csproj",
+  "projectFilePath": "D:\\Projects\\OnlineStores\\OnlineStore\\03.EndPoint\\OnlineStore.EndPoint.Web\\OnlineStore.EndPoint.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

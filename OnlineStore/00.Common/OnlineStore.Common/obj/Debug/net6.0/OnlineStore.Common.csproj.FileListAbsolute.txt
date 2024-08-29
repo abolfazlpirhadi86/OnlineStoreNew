@@ -22,3 +22,4 @@ E:\Projects\OnlineStore\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.
 E:\Projects\OnlineStore\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\refint\OnlineStore.Common.dll
 E:\Projects\OnlineStore\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\OnlineStore.Common.pdb
 E:\Projects\OnlineStore\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\ref\OnlineStore.Common.dll
+D:\Projects\OnlineStores\OnlineStore\00.Common\OnlineStore.Common\obj\Debug\net6.0\OnlineStore.Common.csproj.AssemblyReference.cache
