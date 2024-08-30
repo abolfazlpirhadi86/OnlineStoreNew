@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\OnlineStore\\OnlineStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8730BE-ECA5-4A40-9BBD-6F2FF967B708}|01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj|e:\\projects\\onlinestore\\onlinestore\\01.core\\onlinestores.domain\\onlinestores.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B8730BE-ECA5-4A40-9BBD-6F2FF967B708}|01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj|solutionrelative:01.core\\onlinestores.domain\\onlinestores.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DEDAC7-F8E5-43A8-82C1-A64C20857B56}|OnlineStore.Application\\OnlineStore.Application.csproj|e:\\projects\\onlinestore\\onlinestore\\onlinestore.application\\onlinestore.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26DEDAC7-F8E5-43A8-82C1-A64C20857B56}|OnlineStore.Application\\OnlineStore.Application.csproj|solutionrelative:onlinestore.application\\onlinestore.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}|00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj|e:\\projects\\onlinestore\\onlinestore\\00.common\\onlinestore.common\\onlinestore.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}|00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj|solutionrelative:00.common\\onlinestore.common\\onlinestore.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0F595A-7319-47C6-B47E-B249F957D4CA}|02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj|e:\\projects\\onlinestore\\onlinestore\\02.infrastructure\\onlinestore.infrastructure\\onlinestore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A0F595A-7319-47C6-B47E-B249F957D4CA}|02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj|solutionrelative:02.infrastructure\\onlinestore.infrastructure\\onlinestore.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlineStores.Domain.csproj",
+              "DocumentMoniker": "E:\\Projects\\OnlineStore\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj",
+              "RelativeDocumentMoniker": "01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj",
+              "ToolTip": "E:\\Projects\\OnlineStore\\OnlineStore\\01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj",
+              "RelativeToolTip": "01.Core\\OnlineStores.Domain\\OnlineStores.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T10:39:49.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineStore.Application.csproj",
+              "DocumentMoniker": "E:\\Projects\\OnlineStore\\OnlineStore\\OnlineStore.Application\\OnlineStore.Application.csproj",
+              "RelativeDocumentMoniker": "OnlineStore.Application\\OnlineStore.Application.csproj",
+              "ToolTip": "E:\\Projects\\OnlineStore\\OnlineStore\\OnlineStore.Application\\OnlineStore.Application.csproj",
+              "RelativeToolTip": "OnlineStore.Application\\OnlineStore.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T10:39:48.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnlineStore.Common.csproj",
+              "DocumentMoniker": "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
+              "RelativeDocumentMoniker": "00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
+              "ToolTip": "E:\\Projects\\OnlineStore\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
+              "RelativeToolTip": "00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T10:39:37.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnlineStore.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\Projects\\OnlineStore\\OnlineStore\\02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
+              "ToolTip": "E:\\Projects\\OnlineStore\\OnlineStore\\02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
+              "RelativeToolTip": "02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T10:36:03.711Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

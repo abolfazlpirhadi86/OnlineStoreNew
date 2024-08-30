@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Diagnostics;
+
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -10,6 +10,7 @@ using OnlineStore.Common.Services.Mapper.AutoMapper;
 using OnlineStore.Common.Services.Mapper.Configurations;
 using OnlineStore.Common.Settings.Swagger;
 using OnlineStore.Infrastructure.DataBase;
+using OnlineStore.Infrastructure.Middleware;
 using OnlineStores.Domain;
 
 namespace OnlineStore.Infrastructure.Extensions
@@ -92,8 +93,8 @@ namespace OnlineStore.Infrastructure.Extensions
         public static WebApplication ConfigurePipeLine(this WebApplication app)
         {
             #region Auth
-            app.UseAuthentication();
-            app.UseAuthorization();
+            //app.UseAuthentication();
+            //app.UseAuthorization();
             #endregion
 
             #region Middleware

@@ -1,4 +1,4 @@
-﻿using OnlineStore.Common.Messages;
+﻿using OnlineStore.Common.Message;
 
 namespace OnlineStore.Common.Exceptions
 {

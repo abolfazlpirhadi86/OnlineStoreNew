@@ -1,28 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\OnlineStores\\OnlineStore\\",
+  "WorkspaceRootPath": "E:\\Projects\\OnlineStore\\OnlineStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A0F595A-7319-47C6-B47E-B249F957D4CA}|02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj|d:\\projects\\onlinestores\\onlinestore\\02.infrastructure\\onlinestore.infrastructure\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A0F595A-7319-47C6-B47E-B249F957D4CA}|02.Infrastructure\\OnlineStore.Infrastructure\\OnlineStore.Infrastructure.csproj|solutionrelative:02.infrastructure\\onlinestore.infrastructure\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}|00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj|d:\\projects\\onlinestores\\onlinestore\\00.common\\onlinestore.common\\settings\\swagger\\descriptionschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}|00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj|solutionrelative:00.common\\onlinestore.common\\settings\\swagger\\descriptionschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}|00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj|d:\\projects\\onlinestores\\onlinestore\\00.common\\onlinestore.common\\onlinestore.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{34DDE43D-CE75-4A62-9E2D-9BDD047663D6}|00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj|solutionrelative:00.common\\onlinestore.common\\onlinestore.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EF45E931-7ED7-4AFE-A25E-A5B47EFBC986}|03.EndPoint\\OnlineStore.EndPoint.Web\\OnlineStore.EndPoint.Web.csproj|e:\\projects\\onlinestore\\onlinestore\\03.endpoint\\onlinestore.endpoint.web\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF45E931-7ED7-4AFE-A25E-A5B47EFBC986}|03.EndPoint\\OnlineStore.EndPoint.Web\\OnlineStore.EndPoint.Web.csproj|solutionrelative:03.endpoint\\onlinestore.endpoint.web\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 10,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,45 +54,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DescriptionSchemaFilter.cs",
-              "DocumentMoniker": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\Settings\\Swagger\\DescriptionSchemaFilter.cs",
-              "RelativeDocumentMoniker": "00.Common\\OnlineStore.Common\\Settings\\Swagger\\DescriptionSchemaFilter.cs",
-              "ToolTip": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\Settings\\Swagger\\DescriptionSchemaFilter.cs",
-              "RelativeToolTip": "00.Common\\OnlineStore.Common\\Settings\\Swagger\\DescriptionSchemaFilter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T09:57:59.788Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HostingExtensions.cs",
-              "DocumentMoniker": "D:\\Projects\\OnlineStores\\OnlineStore\\02.Infrastructure\\OnlineStore.Infrastructure\\Extensions\\HostingExtensions.cs",
-              "RelativeDocumentMoniker": "02.Infrastructure\\OnlineStore.Infrastructure\\Extensions\\HostingExtensions.cs",
-              "ToolTip": "D:\\Projects\\OnlineStores\\OnlineStore\\02.Infrastructure\\OnlineStore.Infrastructure\\Extensions\\HostingExtensions.cs",
-              "RelativeToolTip": "02.Infrastructure\\OnlineStore.Infrastructure\\Extensions\\HostingExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T09:55:25.734Z",
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\Projects\\OnlineStore\\OnlineStore\\03.EndPoint\\OnlineStore.EndPoint.Web\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "03.EndPoint\\OnlineStore.EndPoint.Web\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\Projects\\OnlineStore\\OnlineStore\\03.EndPoint\\OnlineStore.EndPoint.Web\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "03.EndPoint\\OnlineStore.EndPoint.Web\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:42:23.159Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OnlineStore.Common.csproj",
-              "DocumentMoniker": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
-              "RelativeDocumentMoniker": "00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
-              "ToolTip": "D:\\Projects\\OnlineStores\\OnlineStore\\00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
-              "RelativeToolTip": "00.Common\\OnlineStore.Common\\OnlineStore.Common.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-29T09:40:26.262Z"
             }
           ]
         },
         {
-          "DockedHeight": 200,
+          "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
             {

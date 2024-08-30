@@ -1,6 +1,23 @@
-var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
+using OnlineStore.Infrastructure.Extensions;
 
-app.MapGet("/", () => "Hello World!");
+try
+{
+    var builder = WebApplication.CreateBuilder(args);
+    var app = builder.ConfigureServices().ConfigurePipeLine();
 
-app.Run();
+    app.Run();
+}
+catch (Exception ex)
+{
+    //Log.Fatal(ex, "Host terminated unexpectedly");
+}
+finally 
+{
+
+}
+
+
+
+
+
+

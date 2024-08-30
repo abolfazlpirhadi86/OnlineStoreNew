@@ -3,7 +3,7 @@ using Microsoft.VisualBasic;
 using OnlineStore.Application.IRepositories.Base;
 using OnlineStore.Common.Entity;
 using OnlineStore.Common.Exceptions;
-using OnlineStore.Common.Messages;
+using OnlineStore.Common.Message;
 using OnlineStore.Common.Services;
 using System.Linq.Expressions;
 
